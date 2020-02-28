@@ -18,7 +18,6 @@ pod install
 - [x] [Mockingjay](https://github.com/kylef/Mockingjay) as network stubbing library for unit testing.
 - [x] Utilized swift 5 new features (propertyWrapper, stringInterpolation).
 - [x] Unit Testing
-- [ ] UI Testing
 
 ## Descriptions
 This is demo application showing list of users from github users API: 
