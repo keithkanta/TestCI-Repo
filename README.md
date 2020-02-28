@@ -1,3 +1,6 @@
+![Build status](https://travis-ci.org/keithkanta/TestCI-Repo.svg?branch=master)
+![Swift version](https://img.shields.io/badge/Swift-5.1-orange.svg?style=flat)
+
 # MVVM-Coordinator Demo
 ## Installations
 In the repo's root folder, run :
