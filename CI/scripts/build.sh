@@ -1,7 +1,7 @@
 set -e
 set -o pipefail
 
-DESTINATION="platform=iOS Simulator,OS=11.3,name=iPhone X"
+DESTINATION="platform=iOS Simulator,OS=13.3,name=iPhone 11"
 
 echo "******************************************************************"
 echo "*                            Build                               *"
