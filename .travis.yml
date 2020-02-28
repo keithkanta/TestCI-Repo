@@ -1,0 +1,9 @@
+language: swift
+branches:
+  except:
+  - non-ci
+before_script:
+- gem install cocoapods
+- pod install
+script:
+- "./CI/scripts/build.sh"
