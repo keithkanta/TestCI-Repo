@@ -9,7 +9,7 @@ pod install
 ```
 ## Requirements
 - Xcode 11+
-- Swift 5+
+- Swift 5.1+
 
 ## Highlights
 - [x] Main architecture is MVVM-Coordinator pattern.
