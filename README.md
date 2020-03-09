@@ -2,7 +2,7 @@
 ![Swift version](https://img.shields.io/badge/Swift-5.1-orange.svg?style=flat)
 
 # MVVM-Coordinator Demo
-## Installations
+## Installation
 In the repo's root folder, run :
 ```
 pod install
@@ -20,7 +20,7 @@ pod install
 - [x] Unit Testing
 - [ ] UI Testing
 
-## Descriptions
+## Description
 This is demo application showing list of users from github users API: 
 - Fetch and present users from github.com.
 - Handle various UI state (blank, loading, partial, error).
